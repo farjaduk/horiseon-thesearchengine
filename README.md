@@ -10,8 +10,8 @@ https://farjaduk.github.io/horiseon-thesearchengine/
 Link to Github:
 https://github.com/farjaduk/horiseon-thesearchengine
 
-![Screenshot Of Webpage](https://user-images.githubusercontent.com/91982413/138628228-2f0ae3ff-f0fe-4c69-ad3e-ff2517d20e01.jpeg)
 
+![Screenshot-of-webpage] (https://github.com/[farjaduk]/[horiseon-thesearchengine]/blob/[./assets/images]/Screenshot-Of-Webpage.jpeg?raw=true)
 
 The header includes the tile combined with a navigation bar at the top that directs you to:
     1) Search Engine Optimization
